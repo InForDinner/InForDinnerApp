@@ -1,0 +1,3 @@
+[submodule "InForDinnerApi"]
+	path = InForDinnerApi
+	url = git@github.com:InForDinner/InForDinnerApi.git
